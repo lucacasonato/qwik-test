@@ -1,0 +1,4 @@
+- can not import `./counter.tsx` from `root.tsx`, instead need to import `./counter.js`
+- requires dynamic imports in the server render. Deno Deploy does not support dynamic imports
+   - would be great to get a "client" and a "server" version of the optimizer output, where the server one is static imports only
+   - ideally no optimizer run required for server exec at all, but this would require runtime reflection of the qrls
