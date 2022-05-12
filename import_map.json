@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "@builder.io/qwik": "https://ga.jspm.io/npm:@builder.io/qwik@0.0.20-2/core.mjs",
+    "@builder.io/qwik/jsx-runtime": "https://ga.jspm.io/npm:@builder.io/qwik@0.0.20-2/jsx-runtime.mjs",
+    "@builder.io/qwik/server": "https://ga.jspm.io/npm:@builder.io/qwik@0.0.20-2/server.mjs"
+  }
+}
